@@ -21,16 +21,12 @@ Welcome to my portfolio page! I'm a 1st year student studying **Computer Science
 <a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
 </div>
 
+---
 
+## Github Stats  
+<img src="https://github-readme-stats.vercel.app/api?username=semyonfox&show_icons=true&count_private=true&hide_border=true" align="left" />  
 
-### Backend  
-<div align="center">  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-</div>
-
-</td><td valign="top" width="33%">
-
-
+<div align="right"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=semyonfox&hide_border=true&layout=compact" align="right" /></div>  
 
 ---
 
@@ -42,7 +38,16 @@ A web application to manage swimmers, display data, and help manage teams
 
 ## 📫 Get in Touch
 - [Email](mailto:semyon.fox@egmail.com)
-- [LinkedIn](https://www.linkedin.com/in/semyon-fox-968685249/)
+
+<div align="center">
+<a href="https://github.com/https://github.com/semyonfox" target="_blank">
+<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
+</a>
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/semyon-fox-968685249/" target="_blank">
+<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
+</a>  
+</div>  
+
 
 ---
 
