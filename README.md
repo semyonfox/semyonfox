@@ -28,6 +28,7 @@ Welcome to my portfolio page! I'm a 1st year student studying **Computer Science
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=semyonfox&hide_border=true&layout=compact"  style="width: 49%"/>
 </div>
 
+
 ## 📂 Projects
 
 ### [Swimming Timing System](https://github.com/SemyonFox/swim)
