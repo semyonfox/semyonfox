@@ -42,12 +42,6 @@ Docker configurations for my home server infrastructure.
 An automated PowerShell script for comprehensive Windows system maintenance.
 - **Tech Stack:** PowerShell (97.3%), Batch
 - **Features:** Automated cleanup, system optimization, maintenance tasks
-
-### [📚 University Programming Assignments](https://github.com/semyonfox/Programming)
-Collection of programming assignments from University of Galway.
-- **Tech Stack:** C (96.9%)
-- **Topics:** Data structures, algorithms, systems programming
-
 ---
 
 ## 💻 Tech Stack & Skills
