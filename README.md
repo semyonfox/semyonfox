@@ -1,153 +1,258 @@
-# Hi, I'm Semyon Fox 👋
+# Semyon Fox
 
-<a href="https://github.com/semyonfox" target="_blank">
-  <img src="https://github-readme-stats.vercel.app/api?username=semyonfox&show_icons=true&count_private=true&hide_border=true&theme=react&hide_rank=true" align="right" style="width: 45%"/>
-</a>
+> Full-Stack Developer | Computer Science Student | Systems Architect
 
-I'm a passionate first-year **Computer Science & IT** student at the *University of Galway* with expertise in modern web development frameworks and full-stack applications. I enjoy building scalable solutions using cutting-edge technologies, from React-based frontends to secure Node.js backends with custom authentication systems.
+<div align="center"> <img src="https://komarev.com/ghpvc/?username=semyonfox&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" /> </div>
+## About
 
-- 🏊 Currently developing a **Swimming Monitoring System** with React and Node.js
-- 🎮 Recently participated in a **Game Jam** with "Artificial" - exploring humanity's creations
-- 🐳 Managing **Docker stacks** for my home server infrastructure
-- 🌱 Learning **PostgreSQL optimization**, **Advanced React patterns**, and **Cloud deployment**
-- 💬 Ask me about **React, Node.js, Tailwind CSS, or custom authentication systems**
-- 📫 Reach me at: **semyon.fox@gmail.com** or on [LinkedIn](https://www.linkedin.com/in/semyon-fox-968685249/)
+Second-year **Computer Science & IT** student at the _University of Galway_ with experience in modern web development frameworks and full-stack applications. I got into web development through building a swimming monitoring system that interested me, and have since explored various technologies from React frontends to Node.js backends with custom authentication systems.
 
-<br/>
+**Currently Working On:**
+
+- Swimming Monitoring System with React and Node.js
+- Managing Docker stacks for home server infrastructure
+- Participated in a Game Jam with "Artificial" - exploring humanity's creations
+
+**Learning:** PostgreSQL, React, Cloud deployment, Java
+
+**Contact:** [semyon.fox@gmail.com](mailto:semyon.fox@gmail.com) | [LinkedIn](https://www.linkedin.com/in/semyon-fox-968685249/)
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### [🏊 Swimming Monitoring System](https://github.com/semyonfox/swim)
-A comprehensive full-stack web application for swimming coaches and athletes to track performance data over time.
-- **Frontend:** React, Tailwind CSS, Axios for API calls
-- **Backend:** Node.js with custom authentication system
-- **Database:** Recently migrated from MySQL to PostgreSQL
-- **Features:** Real-time data visualization, secure user authentication, performance analytics
-- **Purpose:** Helping local swimming clubs digitize their data management
+### 🏊 [Swimming Monitoring System](https://github.com/semyonfox/swim)
 
-### [🎮 Artificial - Game Jam Entry](https://github.com/semyonfox/artificial)
-My submission for a game jam with the theme "Artificial" - an interactive experience exploring all things manmade since the beginning of time.
-- **Tech Stack:** JavaScript (77.5%), CSS (14.7%), HTML (7.8%)
-- **Theme:** Journey through humanity's creations and technological evolution
-- **Features:** Interactive gameplay showcasing human innovation throughout history
+**Comprehensive web-based dashboard** for swimming coaches and athletes to track performance data over time with advanced team management features
 
-### [🐳 Server Stacks](https://github.com/semyonfox/server_stacks)
-Docker configurations for my home server infrastructure.
-- **Tech Stack:** Docker, Docker Compose
-- **Purpose:** Centralized management of self-hosted services and applications
+**Tech Stack:** JavaScript (98.8%), Other (1.2%)
 
-### [🔧 Windows Maintenance Script](https://github.com/semyonfox/WindowsMaintenance)
-An automated PowerShell script for comprehensive Windows system maintenance.
-- **Tech Stack:** PowerShell (97.3%), Batch
-- **Features:** Automated cleanup, system optimization, maintenance tasks
+```javascript
+Frontend: React, Tailwind CSS, Chart.js for data visualization
+Backend: Node.js with custom authentication system and Axios for API calls
+Database: Recently migrated from MySQL to PostgreSQL
+```
+
+**Key Features:**
+
+- Real-time data visualization with interactive charts
+- Team monitoring and coaching tools
+- Performance analytics for athlete tracking
+- Advanced team management features
+- Helping local swimming clubs digitize their data management and coaching workflows
+
+### 🎮 [Artificial - Game Jam Entry](https://github.com/semyonfox/artificial)
+
+**Browser-based progressive clicker game** exploring humanity's creations throughout history, built for a game jam with the theme "Artificial"
+
+**Tech Stack:** JavaScript (83.9%), CSS (13.8%), HTML (2.3%)
+
+```javascript
+Implementation: Pure JavaScript with engaging progression system
+Features: Progressive clicker mechanics with upgrades and historical facts
+```
+
+**Highlights:**
+
+- Educational historical content integrated with gameplay
+- Pure JavaScript implementation without external frameworks
+- Engaging progression system with upgrade mechanics
+- Built under game jam time constraints, but continuing to develop
+
+### 🐳 [Server Stacks](https://github.com/semyonfox/server_stacks)
+
+**Centralized repository** for Docker Compose files and stack configurations for home server infrastructure
+
+**Tech Stack:** Docker, Docker Compose, YAML configurations
+
+```yaml
+Purpose: Streamlined deployment and management of self-hosted services
+Features: Environment configs, service definitions, deployment automation
+Focus: Home server infrastructure management and optimization
+```
+
+### 🔧 [Windows Maintenance Script](https://github.com/semyonfox/WindowsMaintenance)
+
+**Automated PowerShell script suite** for comprehensive Windows system maintenance and optimization
+
+**Tech Stack:** PowerShell (97.3%), Batchfile (2.7%)
+
+```powershell
+Features: Automated cleanup, temp file removal, software updates, performance optimization
+Purpose: Regular PC upkeep and system maintenance automation
+Implementation: Comprehensive Windows system maintenance workflows
+```
+
+### 🌐 [Personal Portfolio Website](https://github.com/semyonfox/Webpage)
+
+**Personal portfolio and resume website** showcasing projects and technical skills
+
+**Tech Stack:** HTML, CSS, JavaScript
+
+```html
+Features: Responsive design, project showcase, interactive elements
+Deployment: GitHub Pages for static site hosting
+Purpose: Professional portfolio and technical skills demonstration
+```
+
 ---
 
-## 💻 Tech Stack & Skills
+## Technical Stack
 
 <div align="center">
 
-### Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=for-the-badge&logo=powershell&logoColor=white)
+**Languages**  
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Axios](https://img.shields.io/badge/Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white)
+**Frontend Development**  
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black) ![Tailwind CSS](https://img.shields.io/badge/Tailwind-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![Chart.js](https://img.shields.io/badge/Chart.js-FF6384?style=flat-square&logo=chartdotjs&logoColor=white)
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=JSON%20web%20tokens&logoColor=white)
+**Backend & Database**  
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white) ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white) ![JWT](https://img.shields.io/badge/JWT-000000?style=flat-square&logo=JSON%20web%20tokens&logoColor=white)
 
-### Databases
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-
-### Tools & Platforms
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)
-![Obsidian](https://img.shields.io/badge/Obsidian-7C3AED?style=for-the-badge&logo=obsidian&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+**DevOps & Tools**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white) ![Nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
 </div>
 
+### Core Expertise
+
+**Full-Stack Development**
+
+- Building complete web applications from React frontends to Node.js backends
+- Custom authentication systems with JWT token implementation
+- Database design and migration (MySQL to PostgreSQL)
+- RESTful API development with Express.js
+
+**Frontend Specialization**
+
+- React application development with modern patterns
+- Tailwind CSS for responsive design implementation
+- Data visualization with Chart.js for interactive dashboards
+- Component-based architecture with reusable UI elements
+
+**Backend Engineering**
+
+- Node.js server development with custom authentication
+- Database management and query optimization
+- API development with Axios for frontend integration
+- Secure backend architecture and middleware implementation
+
+**DevOps & System Administration**
+
+- Docker containerization and Docker Compose orchestration
+- Home server infrastructure management
+- PowerShell automation for system maintenance
+- Version control with Git and collaborative development
+
+**Algorithm & System Design**
+
+- Strong foundation in data structures and algorithms using C and JavaScript
+- System architecture for scalable web applications
+- Performance optimization and code efficiency
+- Problem-solving and rapid prototyping skills
+
 ---
 
-## 📊 GitHub Stats
+## GitHub Analytics
+
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=semyonfox&show_icons=true&count_private=true&hide_border=true&theme=dark&hide_rank=true&custom_title=GitHub%20Statistics" width="48%" /> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=semyonfox&layout=compact&theme=dark&hide_border=true&langs_count=8" width="48%" /> </div> <div align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=semyonfox&theme=dark&hide_border=true" width="70%" /> </div>
+
+---
+
+## Complete Repository Overview
+
+| Project                                                                   | Languages                                    | Purpose                                         | Status        |
+| ------------------------------------------------------------------------- | -------------------------------------------- | ----------------------------------------------- | ------------- |
+| **[swim](https://github.com/semyonfox/swim)**                             | JavaScript (98.8%), Other (1.2%)             | Swimming monitoring system with team management | 🟢 Active     |
+| **[WindowsMaintenance](https://github.com/semyonfox/WindowsMaintenance)** | PowerShell (97.3%), Batchfile (2.7%)         | Automated Windows system maintenance            | ✅ Complete    |
+| **[Algorithms](https://github.com/semyonfox/Algorithms)**                 | C (77.9%), JavaScript (22.1%)                | Algorithm implementations from university       | 📚 Academic   |
+| **[artificial](https://github.com/semyonfox/artificial)**                 | JavaScript (83.9%), CSS (13.8%), HTML (2.3%) | Game jam progressive clicker game               | 🟢 Active     |
+| **[server_stacks](https://github.com/semyonfox/server_stacks)**           | Docker, YAML                                 | Docker configurations for home server           | 🟢 Active     |
+| **[Programming](https://github.com/semyonfox/Programming)**               | C (96.9%)                                    | University programming assignments              | 📚 Academic   |
+| **[Webdev](https://github.com/semyonfox/Webdev)**                         | HTML (75.3%), JS (13.1%), CSS (11.6%)        | Web development assignment collection           | 📚 Academic   |
+| **[Webpage](https://github.com/semyonfox/Webpage)**                       | HTML (50.2%), CSS (27.3%), JS (22.5%)        | Personal portfolio website                      | 🔄 Maintained |
+| **[Obsidian](https://github.com/semyonfox/Obsidian)**                     | Markdown                                     | Personal knowledge base backup                  | 📝 Personal   |
+| **[semyonfox](https://github.com/semyonfox/semyonfox)**                   | Config files                                 | GitHub profile configuration                    | ⚙️ Config     |
+
+---
+
+## Current Development Focus
+
+### 🎯 **Active Development**
+
+**Swimming System Enhancement**
+
+- Implementing advanced React features with Tailwind CSS for responsive design
+- Building secure custom authentication with JWT tokens in Node.js
+- Optimizing PostgreSQL queries for better performance
+- Expanding team management and coaching tools functionality
+
+**Infrastructure Management**
+
+- Expanding Docker-based home server with new self-hosted services
+- Managing and optimizing server stack configurations
+- Implementing best practices for containerized service deployment
+
+### 📚 **Learning & Growth**
+
+**Academic Focus**
+
+- Working through algorithms and data structures coursework
+- University programming assignments and fundamental concepts
+- Data structures and algorithm practice in C and JavaScript
+
+**Technical Advancement**
+
+- Mastering Tailwind CSS for rapid, beautiful interface development
+- Advanced React patterns and component architecture
+- PostgreSQL optimization and database design
+- UI/UX enhancement and modern web design principles
+
+**System Architecture**
+
+- Self-hosted services management and optimization
+
+---
+
+## Technical Accomplishments
+
+**Full-Stack Project Delivery**
+
+- Successfully migrated swimming system database from MySQL to PostgreSQL
+- Implemented comprehensive team management features for local swimming clubs
+- Built custom authentication system with secure JWT implementation
+- Created responsive data visualization dashboards with Chart.js
+
+**Creative Development**
+
+- Rapid prototyping skills demonstrated through game jam participation
+- Creative coding and interactive experience development
+- Pure JavaScript implementation without framework dependencies
+- Educational content integration with engaging user experiences
+
+**System Administration**
+
+- Automated Windows system maintenance with comprehensive PowerShell scripts
+- Docker-based infrastructure management for multiple services
+- Home server optimization and self-hosted service deployment
+- Version control and collaborative development workflow management
+
+**Academic Excellence**
+
+- Strong foundation in computer science fundamentals
+- Algorithm implementation and optimization skills
+- Data structures understanding with practical applications
+- Collaborative academic project development and peer learning
+
+---
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=semyonfox&hide_border=true&layout=compact&theme=vision-friendly-dark&langs_count=8" />
+
+**Building scalable solutions with modern technologies**
+
+[![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:semyon.fox@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/semyon-fox-968685249/) [![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/semyonfox)
+
+_Always excited to collaborate on interesting projects and discuss modern web development practices_
+
 </div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=semyonfox&theme=vision-friendly-dark&hide_border=true" />
-</div>
-
----
-
-## 🎯 Current Focus & Learning
-
-- 🏊 **Swimming System Development**: Implementing advanced React features with Tailwind CSS for responsive design
-- 🔐 **Authentication Systems**: Building secure custom authentication with JWT tokens in Node.js
-- 📖 **Academic Projects**: Working through algorithms and data structures coursework
-- 🏠 **Home Lab**: Expanding my Docker-based home server with new self-hosted services
-- 🗄️ **Database Migration**: Optimizing PostgreSQL queries for better performance
-- 🎨 **UI/UX Enhancement**: Mastering Tailwind CSS for rapid, beautiful interface development
-
----
-
-## 📂 Repository Overview
-
-| Project | Description | Primary Tech |
-|---------|-------------|--------------|
-| [swim](https://github.com/semyonfox/swim) | Swimming monitoring system | React, Node.js, PostgreSQL |
-| [Obsidian](https://github.com/semyonfox/Obsidian) | Personal knowledge base backup | Markdown |
-| [artificial](https://github.com/semyonfox/artificial) | Game jam entry - humanity's creations | JavaScript |
-| [WindowsMaintenance](https://github.com/semyonfox/WindowsMaintenance) | Windows automation script | PowerShell |
-| [Programming](https://github.com/semyonfox/Programming) | University assignments | C |
-| [Algorithms](https://github.com/semyonfox/Algorithms) | Algorithm implementations | C |
-| [Webdev](https://github.com/semyonfox/Webdev) | Web development assignments | HTML, CSS, JS |
-
----
-
-## 🛠️ Technical Expertise
-
-- **Frontend Development**: Building responsive SPAs with React and Tailwind CSS
-- **Backend Development**: Creating RESTful APIs with Node.js and Express
-- **Authentication**: Implementing secure custom authentication systems with JWT
-- **API Integration**: Efficient data fetching and state management with Axios
-- **Database Design**: Schema design and query optimization in PostgreSQL
-- **Version Control**: Git workflow management and collaborative development
-
----
-
-## 📫 Let's Connect!
-
-I'm always excited to collaborate on interesting projects or discuss modern web development practices. Whether it's React patterns, Node.js architecture, or full-stack development, I'd love to hear from you!
-
-<div align="center">
-  <a href="mailto:semyon.fox@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/semyon-fox-968685249/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/semyonfox" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=semyonfox&style=flat-square&color=blue" alt="Profile views" />
-</div>
-
-*Thanks for visiting my profile! Have a great day!* 🌟
