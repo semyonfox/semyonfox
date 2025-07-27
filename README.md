@@ -168,21 +168,75 @@ Second-year **Computer Science & IT** student at the _University of Galway_ with
 | **🎮 Creative Coding** | Game Development | Pure JavaScript, Game Logic | [Artificial](https://github.com/semyonfox/artificial) |
 
 ---
+## 🎯 Current Development Focus
 
-## 🌟 Current Development Focus
+<details>
+<summary>🔥 Active Development</summary>
 
-### 🔥 Active Projects
-- **Swimming System Enhancement:** Advanced React features, PostgreSQL optimization, team management expansion
-- **Infrastructure Scaling:** Docker-based service deployment, home server optimization
-- **Game Development:** Post-jam improvements to "Artificial" with enhanced mechanics
+#### Swimming System Enhancement
+- Implementing advanced React features with Tailwind CSS for responsive design
+- Building secure custom authentication with JWT tokens in Node.js
+- Optimizing PostgreSQL queries for better performance
+- Expanding team management and coaching tools functionality
 
-### 📚 Learning Path
-- **Advanced React:** Hooks, Context API, performance optimization
-- **Database Design:** PostgreSQL advanced features, query optimization
-- **Cloud Technologies:** Deployment strategies, containerized applications
-- **Java Development:** Academic coursework and enterprise patterns
+#### Infrastructure Management
+- Expanding Docker-based home server with new self-hosted services
+- Managing and optimizing server stack configurations
+- Implementing best practices for containerized service deployment
 
----
+</details>
+
+
+<details>
+<summary>📚 Learning & Growth</summary>
+
+#### Academic Focus
+- Working through algorithms and data structures coursework
+- University programming assignments and fundamental concepts
+- Data structures and algorithm practice in C and JavaScript
+
+#### Technical Advancement
+- Mastering Tailwind CSS for rapid, beautiful interface development
+- Advanced React patterns and component architecture
+- PostgreSQL optimization and database design
+- UI/UX enhancement and modern web design principles
+
+#### System Architecture
+- Self-hosted services management and optimization
+
+</details>
+
+
+<details>
+<summary>🏆 Technical Accomplishments</summary>
+
+#### Full-Stack Project Delivery
+- Successfully migrated swimming system database from MySQL to PostgreSQL
+- Implemented comprehensive team management features for local swimming clubs
+- Built custom authentication system with secure JWT implementation
+- Created responsive data visualization dashboards with Chart.js
+
+#### Creative Development
+- Rapid prototyping skills demonstrated through game jam participation
+- Creative coding and interactive experience development
+- Pure JavaScript implementation without framework dependencies
+- Educational content integration with engaging user experiences
+
+#### System Administration
+- Automated Windows system maintenance with comprehensive PowerShell scripts
+- Docker-based infrastructure management for multiple services
+- Home server optimization and self-hosted service deployment
+- Version control and collaborative development workflow management
+
+#### Academic Excellence
+- Strong foundation in computer science fundamentals
+- Algorithm implementation and optimization skills
+- Data structures understanding with practical applications
+- Collaborative academic project development and peer learning
+
+</details>
+
+--- 
 
 ## 📫 Let's Connect
 
