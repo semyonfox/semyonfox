@@ -1,42 +1,24 @@
 # Semyon Fox
 
-Second-year Computer Science student at University of Galway building full-stack web applications and managing systems infrastructure.
+Computer Science & IT student at the University of Galway. I build and operate software across backend services, data pipelines, cloud infrastructure and developer tooling.
 
-## What I'm Working On
+**Seeking a Jan–Aug 2027 software engineering / platform / SRE placement.**
 
-**Swimming Monitoring System** - Full-stack dashboard for swimming coaches and athletes using React, Node.js, and PostgreSQL. Currently digitizing workflows for local swimming clubs.
+## Selected work
 
-**Server Infrastructure** - Managing self-hosted services using Docker and Docker Compose for home server deployment and orchestration.
+- **[OghmaNotes](https://github.com/semyonfox/oghma)** — deployed study workspace with Canvas imports, semantic search and RAG chat. Built around TypeScript, PostgreSQL/pgvector, Redis/BullMQ workers, Docker and Jenkins CI/CD.
+- **[Irish Rail Nabber](https://github.com/semyonfox/irish-rail-nabber)** — real-time transport-data platform: a Python collector writes to TimescaleDB; a Rust API and live dashboard serve the resulting data.
+- **[Canvas MCP](https://github.com/semyonfox/canvas-mcp)** — TypeScript Model Context Protocol server for Canvas LMS, with a documented tool surface, permission boundaries and mocked unit tests.
+- **[Site Watchdog](https://github.com/semyonfox/cf_ai_watchdog)** — Cloudflare Workers and Durable Objects application for scheduled site checks, security-header auditing and real-time monitoring analytics.
 
-## Interests
+## What I care about
 
-- Full-stack web development
-- Systems architecture and infrastructure
-- Game development
-- Database design and optimization
+I enjoy the work around a feature as much as the feature itself: clear system boundaries, useful data models, safe deployments, failure handling, observability and the debugging that follows a real system into production.
 
-## Tools & Technologies
+Alongside university, I am Treasurer of the University of Galway Computer Society and run a small self-hosted environment for learning about containers, networking, storage and operations.
 
-**Languages:** JavaScript, C, PowerShell, Java
+## Find me
 
-**Frontend:** React, Tailwind CSS, Chart.js
-
-**Backend:** Node.js, PostgreSQL, JWT authentication
-
-**DevOps:** Docker, Git, Linux
-
-## Recent Projects
-
-[Swimming System](https://github.com/semyonfox/swim) - React + Node.js monitoring dashboard
-
-[Artificial](https://github.com/semyonfox/artificial) - Game jam entry exploring progressive gameplay
-
-[Server Stacks](https://github.com/semyonfox/server_stacks) - Docker-based infrastructure management
-
-[Windows Maintenance](https://github.com/semyonfox/WindowsMaintenance) - Automated system optimization scripts
-
-## Contact
-
-**Email:** semyon.fox@gmail.com
-
-**LinkedIn:** [linkedin.com/in/semyon-fox-968685249](https://www.linkedin.com/in/semyon-fox-968685249/)
+- Portfolio and CV: [semyon.ie](https://semyon.ie)
+- LinkedIn: [semyon-fox-968685249](https://www.linkedin.com/in/semyon-fox-968685249/)
+- Email: [hello@semyon.ie](mailto:hello@semyon.ie)
